@@ -1,0 +1,3 @@
+# .jitpack.yml 文件内容
+jdk:
+  - openjdk11
